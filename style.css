@@ -1,0 +1,63 @@
+body {
+	#background-image:url(bg1.jpg);
+	font-family: 'Comfortaa', cursive;
+}
+a {
+	color:white;
+	text-decoration:none;
+	padding:1%;
+	text-align:right;
+	float:right;
+}
+.div1 {
+	color:white;
+	margin: auto;
+	height: 80px;
+	width:  85%;
+	
+	
+}
+.div2 {
+	margin: 150px 0px 0px 550px;
+    width: 25%;
+    border: 3px solid grey;
+    padding: 10px;
+	text-align: center;
+	color:white;
+}
+a.div2 {
+	text-decoration:none;
+}
+.table1 {
+	margin: auto;
+    padding: 10px;
+	
+}
+input[type="text"],input[type="password"] {
+	outline:none;
+	border-radius:5px;
+	height:30px;
+	width:250px;
+	font-family: 'Comfortaa', cursive;
+	font-size:15px;
+	
+}
+input[type="button"] {
+	cursor:pointer;
+	border-radius:3px;
+	font-family: 'Comfortaa', cursive;
+}
+.div3 {
+	margin: 0px 0px 0px 520px;
+    width: 30%;
+    #border: 3px solid grey;
+    padding: 10px;
+	text-align: center;
+	color:white;
+}
+.btns{
+	font-family: 'Comfortaa', cursive; 
+	background-color:transparent;
+	border:none;
+	color:white;
+}
